@@ -44,3 +44,29 @@
 ## 👀 Profile Visitors
 
 ![Visitors](https://komarev.com/ghpvc/?username=younasnofficial-a11y&color=blue)
+
+---
+
+## Animated Typing
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Web+Developer;Learning+JavaScript+%26+Firebase;Building+Projects+at+SMIT" alt="Typing SVG" />
+</p>
+
+---
+
+## GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=younasnofficial-a11y&theme=darkhub&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+</p>
+
+---
+
+## Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=younasnofficial-a11y&theme=github-compact" alt="Contribution Graph" />
+</p>
+
+---
